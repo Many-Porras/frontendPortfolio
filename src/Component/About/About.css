@@ -28,7 +28,8 @@
 
 .skill{
     background-color: palevioletred;
+    text-decoration: none;
     margin: 0.3rem;
     padding: 0.8rem;
-    border-radius: 6%;
+    border-radius: 3%;
 }
